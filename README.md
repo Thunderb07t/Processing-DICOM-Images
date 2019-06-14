@@ -1,5 +1,5 @@
 # Processing-DICOM-Images
-Read and convert medical images in DICOM format
+Read and convert medical images present in DICOM format
 
 DICOM is a format used generally in medical images.
 Along with the image, a DICOM file contails other information too like Patient Name etc.
